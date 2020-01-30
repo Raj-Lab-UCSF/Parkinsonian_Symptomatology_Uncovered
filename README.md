@@ -13,8 +13,6 @@ If you find this code useful, please cite us as:
     	month = feb,
     	year = {2020},
     	keywords = {Parkinson, deep learning},
-    	pages = {73}
-      copyright = {http://creativecommons.org/licenses/by/3.0/},
-    	url = {https://www.mdpi.com/2076-3425/10/2/73},
+    	pages = {73},
     	doi = {10.3390/brainsci10020073},
     }
